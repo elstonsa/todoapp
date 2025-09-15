@@ -1,0 +1,11 @@
+**/bin,
+**/obj,
+**/out,
+Dockerfile*,
+docker-compose*,
+README.md,
+**/.git,
+**/.gitignore,
+**/.vscode,
+**/.dockerignore
+.vs
